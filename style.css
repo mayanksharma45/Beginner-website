@@ -13,8 +13,8 @@
 }
 .btn_one{
     color: grey;
-    font-size: 30px;
-    font-weight: 300;
+    font-size: 31px;
+    font-weight: 301;
     position: absolute;
     left: 10px;
     line-height: 55px;
@@ -26,7 +26,7 @@
     position: fixed;
     width: 300px;
     height: 100vh;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.11);
     box-shadow: 0 0 8px rgba(255, 255, 255, 0.5);
     left: -300px;
     /* transition: all 0.3s linear; */
@@ -81,7 +81,7 @@
 .sidebar_menu .social_media i{
     padding: 5px;
     color: white;
-    opacity: 0.6;
+    opacity: 0.63;
 }
 #check{
     display: none;
@@ -108,5 +108,5 @@
     display: none;
 }
 #check:checked~.sidebar_menu .btn_two i{
-    opacity: 0.4;
+    opacity: 0.415;
 }

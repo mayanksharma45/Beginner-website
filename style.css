@@ -27,14 +27,14 @@
     width: 300px;
     height: 100vh;
     background-color: rgba(260, 260, 260, 0.11);
-    box-shadow: 0 0 9px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 8.7px rgba(255, 255, 255, 0.5);
     left: -300px;
     /* transition: all 0.3s linear; */
 }
 .sidebar_menu .logo{
     position: absolute;
     width: 100%;
-    box-shadow: 0 0 9px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 8.7px rgba(255, 255, 255, 0.3);
     height: 50px;
 }
 .sidebar_menu .logo a{
